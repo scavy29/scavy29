@@ -7,11 +7,20 @@
   
 <h1> I love to Work on Different kind of Projects as well as Excited about Data Structures & Algorithms which I am Learning Currently</h1>
   <h>Tech Stack:</h>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-        <li>Django</li>
+  <h1>Programming Language:</h1>
+  <ul>
+    <li>C++</li>
+    <li>Java</li>
+    <li>Python</li>
+  </ul>
+  <h1>Tech Stack</h1>
+  <ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Django</li>
   <li>MySQL</li>
+  </ul>
 </html>
 <head>
 
