@@ -5,9 +5,8 @@
 
 <!-- <img src="https://sde.pst.ifi.lmu.de/trac/sde/raw-attachment/wiki/Screenshots/sde%20small.png" alt="bck" widht="1949" height="484"> -->
   
-<h1> I love to Work on Different kind of Projects as well as Excited about Data Structures & Algorithms which I am Learning Currently</h1>
-  <h>Tech Stack:</h>
-  <h1>Programming Language:</h1>
+<h1> I love to Work on Different kind of Projects as well as Excited about Data Structures & Algorithms which I am Learning Currently...</h1>
+  <h1>Programming Languages:</h1>
   <ul>
     <li>C++</li>
     <li>Java</li>
@@ -22,6 +21,9 @@
   <li>MySQL</li>
   </ul>
   <h2>-----Current Working on a API based Project and Preparing for Interview-----</h2>
+  <h>Reach Me on: </h>
+  <a href="https://twitter.com/vicks54325">Twitter</a>
+    <a href="https://www.linkedin.com/in/dv22/">LinkedIn</a>
   <h5>Thanks😄for Visiting!!! Have a Great Day ☀️</h5
 </html>
 <head>
