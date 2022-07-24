@@ -21,6 +21,8 @@
   <li>Django</li>
   <li>MySQL</li>
   </ul>
+  <h2>-----Current Working on a API based Project and Preparing for Interview-----</h2>
+  <h5>Thanks😄for Visiting!!! Have a Great Day ☀️</h5
 </html>
 <head>
 
