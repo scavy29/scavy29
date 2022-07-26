@@ -21,9 +21,10 @@
   <li>MySQL</li>
   </ul>
   <h2>-----Currently Working on an API based Project and Preparing for Interview-----</h2>
-  <h>Reach Me on: </h>
-  <a href="https://twitter.com/vicks54325">Twitter</a>
-    <a href="https://www.linkedin.com/in/dv22/">LinkedIn</a>
+  <h>Reach Me on: </h><br><br>
+  <a href="https://twitter.com/vicks54325"><img src="https://c.tenor.com/jDOgugYCEywAAAAM/twitter-logo.gif" width="50" height="50"></a>
+  <h>   </h>   
+  <a href="https://www.linkedin.com/in/dv22/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" width="50" height="50"></a>
   <h5>Thanks😄for Visiting!!! Have a Great Day ☀️</h5
 </html>
 <head>
