@@ -20,7 +20,7 @@
   <li>Django</li>
   <li>MySQL</li>
   </ul>
-  <h2>-----Current Working on an API based Project and Preparing for Interview-----</h2>
+  <h2>-----Currently Working on an API based Project and Preparing for Interview-----</h2>
   <h>Reach Me on: </h>
   <a href="https://twitter.com/vicks54325">Twitter</a>
     <a href="https://www.linkedin.com/in/dv22/">LinkedIn</a>
