@@ -3,8 +3,7 @@
 <html>
 <head>
   <body>
-<iframe src='https://my.spline.design/superkidrobotcopy-5895fb6817cdc0c6f2026d75b1fb729b/' frameborder='0' width='100%' height='100%'></iframe>
-<!-- <img src="https://sde.pst.ifi.lmu.de/trac/sde/raw-attachment/wiki/Screenshots/sde%20small.png" alt="bck" widht="1949" height="484"> -->
+<img src="https://sde.pst.ifi.lmu.de/trac/sde/raw-attachment/wiki/Screenshots/sde%20small.png" alt="bck" widht="1949" height="484">
   
 <h1> I love to Work on Different kind of Projects as well as Excited about Data Structures & Algorithms which I am Learning Currently...</h1>
   <h1>Programming Languages:</h1>
