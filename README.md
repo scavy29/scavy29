@@ -6,7 +6,7 @@
   
 <h1> I love to Work on Different kind of Projects as well as Excited about Data Structures & Algorithms which I am Learning Currently...</h1>
     <br>
-    <button><a href="https://drive.google.com/file/d/1ReiXK0NxkEeFcoNCFNG8tKdgKIxdKqf_/view?usp=sharing">View Resume</a></button>
+    <button><a href="https://drive.google.com/file/d/1ReiXK0NxkEeFcoNCFNG8tKdgKIxdKqf_/view?usp=sharing" targer="_blank">View Resume</a></button>
   <h1>Programming Languages:</h1>
   <ul>
     <li>C++</li>
