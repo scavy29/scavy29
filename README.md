@@ -11,14 +11,13 @@
   <ul>
     <li>C++</li>
     <li>Java</li>
-    <li>Python</li>
   </ul>
   <h1>Tech Stack</h1>
   <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-  <li>Django</li>
+  <li>PHP</li>
   <li>MySQL</li>
   </ul>
   <h2>-----Currently Working on an API based Project and Preparing for Interview-----</h2>
