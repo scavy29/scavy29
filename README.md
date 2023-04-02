@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikrant</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img src="http://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vikrant&theme=dark&show_icons=true)
+
 - 🔭 I’m currently working on **Machine Learning Project**
 
 - 🌱 I’m currently learning **Reacjs and alongside practicing DSA**
