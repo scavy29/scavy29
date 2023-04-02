@@ -1,47 +1,28 @@
-<html>
-<head>
-<h1>Hi there 👋 This is Vikrant</h1>
-  <body>
-  <img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="bck" widht="400" height="500">
-  
-<h1> I love to Work on Different kind of Projects as well as Excited about Data Structures & Algorithms which I am Learning Currently...</h1>
-    <br>
-      <a href="https://drive.google.com/file/d/1ReiXK0NxkEeFcoNCFNG8tKdgKIxdKqf_/view?usp=sharing" target="_blank">View Resume</a>
-  <h1>Programming Languages:</h1>
-  <ul>
-    <li>C++</li>
-    <li>Java</li>
-  </ul>
-  <h1>Tech Stack</h1>
-  <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>PHP</li>
-  <li>MySQL</li>
-  </ul>
-  <h2>-----Currently Working on an API based Project and Preparing for Interview-----</h2>
-  <h>Reach Me on: </h><br><br>
-  <a href="https://twitter.com/vicks54325"><img src="https://c.tenor.com/jDOgugYCEywAAAAM/twitter-logo.gif" width="50" height="50"></a>
-  <h>   </h>   
-  <a href="https://www.linkedin.com/in/dv22/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" width="50" height="50"></a>
-  <h5>Thanks😄for Visiting!!! Have a Great Day ☀️</h5
-</html>
-    </body>
-<head>
+<h1 align="center">Hi 👋, I'm Vikrant</h1>
+<h3 align="center">A passionate developer from India</h3>
+<img src="http://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
+- 🔭 I’m currently working on **Machine Learning Project**
 
- 
-<!--
-**scavy29/scavy29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Reacjs and alongside practicing DSA**
 
-Here are some ideas to get you started:
+- 🤝 I’m looking for help with **PostgreSQL DB Deployment**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://athenasquare.org/vd1203](https://athenasquare.org/vd1203)
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **vikrant.dekate1203@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vBMrlz3k8435UC_XimErctBYSTmFyucO/view?usp=share_link](https://drive.google.com/file/d/1vBMrlz3k8435UC_XimErctBYSTmFyucO/view?usp=share_link)
+
+- ⚡ Fun fact **I can survive Options Trading**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vicks54325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vicks54325" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vikrant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikrant" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/scavy29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="scavy29" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
