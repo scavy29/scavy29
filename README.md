@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikrant</h1>
 <h3 align="center">Student @<a href="https://chennai.vit.ac.in/" target="_blank">Vellore Institute of Technology</a></h>
 <h3 align="center">A passionate developer from India</h3>
-<img src="http://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
+<img src="http://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" align="center">
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vikrant&theme=dark&show_icons=true) -->
 
