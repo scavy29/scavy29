@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Project**
 
-- 🌱 I’m currently learning **Reacjs and alongside practicing DSA**
+- 🌱 I’m currently learning **Reactjs and alongside practicing DSA**
 
 
 - 🤝 I’m looking for help with **PostgreSQL DB Deployment**
