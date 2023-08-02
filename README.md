@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
 <body>
     <h1 align="center">Welcome 🙏🏼</h1>
+    System.out.println(“I am Vikrant“);
 <!-- <h3 align="center">Student @<a href="https://chennai.vit.ac.in/" target="_blank">Vellore Institute of Technology</a></h> -->
 <!-- <h3 align="center">A passionate developer from <br> <abbr title="INDIA"><img src="https://cdn.iconscout.com/icon/free/png-512/free-india-flag-country-nation-union-empire-32988.png?f=avif&w=256" width="30px" height="30px" style="cursor: pointer;"></abbr> </h3> -->
 <!-- <img src="http://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" style="margin-left: 290px;"> -->
@@ -16,7 +16,7 @@
 
 <p> I'm thrilled to have you here!I'm a passionate software developer from India with a curiosity to build something productivity tools. I have worked on few projects which include
     frontend, backend as well as full-stack-development. I am good with Computer Science Fundamentals as well as with Web Development. I am open to all Framework as i believe
-    that Framework should never be a dependency. I am looking for Full-time Software Development Opportunities</p>
+    that Framework should never be a dependency. I am looking for Full-time Software Development Opportunities
 
     Thank you for stopping by, and I hope you enjoy your visit to my little corner of the coding universe!
     
