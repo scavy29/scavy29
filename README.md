@@ -8,8 +8,8 @@
 <body>
     <h1 align="center">Hi 👋, I'm Vikrant</h1>
 <!-- <h3 align="center">Student @<a href="https://chennai.vit.ac.in/" target="_blank">Vellore Institute of Technology</a></h> -->
-<h3 align="center">A passionate developer from India</h3>
-<img src="http://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" style="margin-left: 290px;">
+<h3 align="center">A passionate developer from <br> <img src="https://cdn.iconscout.com/icon/free/png-512/free-india-flag-country-nation-union-empire-32988.png?f=avif&w=256" width="30px" height="30px"> </h3>
+<!-- <img src="http://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" style="margin-left: 290px;"> -->
 <br>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vikrant&theme=dark&show_icons=true) -->
