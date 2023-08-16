@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advanced JavaScript, React**
 
-- 🤝 I’m looking for help with **API**
+- 🤝 I’m looking for help with **Dhan API**
 
 - 💬 Ask me about **Computer Fundamentals, Cloud, Deployment & anything to have a productive discussion**
 
