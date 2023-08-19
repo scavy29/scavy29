@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vicks54325" target="blank"><img src="https://img.shields.io/twitter/follow/vicks54325?logo=twitter&style=for-the-badge" alt="vicks54325" /></a> </p>
 
--- Recent Project **Expense Tracker** [http://expensediary-dev.eba-m75bupju.ap-south-1.elasticbeanstalk.com/]
+- 🧑‍💻 Recent Project **Expense Tracker** [http://expensediary-dev.eba-m75bupju.ap-south-1.elasticbeanstalk.com/]
 
 - 🔭 I’m currently working on **Trading Platform**
 
