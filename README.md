@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vikrant</h1>
 <h3 align="center">"Exploring the World of Frontend Development: Showcasing My Web Projects"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scavy29&label=Profile%20views&color=0e75b6&style=flat" alt="scavy29" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=scavy29&label=Profile%20views&color=0e75b6&style=flat" alt="scavy29" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/vicks54325" target="blank"><img src="https://img.shields.io/twitter/follow/vicks54325?logo=twitter&style=for-the-badge" alt="vicks54325" /></a> </p>
 
-- 🧑‍💻 Recent Project **Expense Tracker** [http://expensediary-dev.eba-m75bupju.ap-south-1.elasticbeanstalk.com/]
+- 🧑‍💻 Recent Project **Expense Tracker** [http://expensediarydev-dev.eba-hzpqavw8.ap-south-1.elasticbeanstalk.com/]
 
 - 🔭 I’m currently working on **Trading Platform**
 
 - 🌱 I’m currently learning **Advanced JavaScript, React**
 
-- 🤝 I’m looking for help with **API**
+<!-- - 🤝 I’m looking for help with **Stock Market API** -->
 
 - 💬 Ask me about **Computer Fundamentals, Cloud, Deployment & anything to have a productive discussion**
 
