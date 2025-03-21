@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vikrant.dekate1203@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q2ru4SFsqX6HMQrH8sFGURuDwh1qYIF7/view?usp=sharing](https://drive.google.com/file/d/1q2ru4SFsqX6HMQrH8sFGURuDwh1qYIF7/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1q2ru4SFsqX6HMQrH8sFGURuDwh1qYIF7/view?usp=sharing](https://drive.google.com/file/d/11ygUGw2YpaW_Tx5n-j557Vu5ZsftYh6A/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
