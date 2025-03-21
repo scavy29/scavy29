@@ -7,12 +7,6 @@
 
 - 🧑‍💻 Recent Project **Expense Tracker** [http://expensediarydev-dev.eba-hzpqavw8.ap-south-1.elasticbeanstalk.com/]
 
-- 🔭 I’m currently working on **Trading Platform**
-
-- 🌱 I’m currently learning **Advanced JavaScript, React**
-
-<!-- - 🤝 I’m looking for help with **Stock Market API** -->
-
 - 💬 Ask me about **Computer Fundamentals, Cloud, Deployment & anything to have a productive discussion**
 
 - 📫 How to reach me **vikrant.dekate1203@gmail.com**
